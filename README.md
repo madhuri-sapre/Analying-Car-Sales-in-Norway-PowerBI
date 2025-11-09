@@ -2,43 +2,73 @@
 Analyzing Car Sales in Norway | Sales Dashboard (Power BI Project)
 
 # Description
-This Car Sales Analysis Dashboard (Power BI) visualizes Norway’s car market using cleaned Excel data. It highlights units sold, total revenue, market share, brand performance, top models, and sales trends, providing quick insights into top-selling brands and overall sales growth.
+The Amazon Product Sales Analysis Dashboard provides a detailed visualization of sales performance, product categories, and customer engagement metrics. Built using Microsoft Power BI, this dashboard enables clear insights into year-to-date (YTD) and quarter-to-date (QTD) performance, helping businesses track top-performing products, analyze trends, and make data-driven decisions.
 
 
-# Key Insights and Features:
-#### Total Units Sold: 
-1.34M cars sold across different brands. <br />       
-#### Total Revenue:           
-Generated revenue of ₹120M+ (example figure).  <br />
-#### Top Performing Brands: 
-Volkswagen, Toyota, Ford, Audi, BMW, and Hyundai. <br />
-#### Market Share Analysis: 
-Visualized through an interactive pie chart showing brand-wise contribution. <br />
-#### Top 5 Models by Revenue: 
-Identified best-selling car models by revenue. <br />
-#### Sales Trend: 
-Line chart displaying monthly/quarterly sales trend for performance tracking.  <br />
-#### Brand Market Value: 
-Bar chart comparing brand performance in terms of sales and revenue.  <br />
-#### Dynamic Filters: 
-Dashboard includes slicers for filtering by brand and category.  <br />
+# Objectives
+•	To analyze Amazon product sales data and identify performance trends. <br/> 
+•	To monitor YTD and QTD sales, reviews, and product performance. <br/> 
+•	To visualize sales patterns by month, week, and category. <br/> 
+•	To highlight top-performing products based on sales and customer reviews. <br/> 
 
 
-# Why This Project Stands Out:
-•	Built an end-to-end interactive dashboard using Power BI with clear, professional layout. <br />
-•	Real-world business problem: Car sales performance analysis for strategic decision-making. <br />
-•	Clean data transformation using Power Query (ETL process). <br />
-•	Applied data modeling, DAX calculations, and custom visuals for deeper insights. <br />
-•	Demonstrates data storytelling skills through visualization and key KPIs. <br />
+# Key Metrics & KPIs
+•	YTD Sales: $2.18M <br/> 
+•	QTD Sales: $811.09K <br/> 
+•	YTD Products Sold: 27.75K <br/> 
+•	YTD Reviews: 19.42M <br/> 
 
-# Project Highlights:
-Tools Used: Power BI, Excel/CSV dataset <br />
-Key Skills Demonstrated: Data Cleaning, Data Modeling, DAX, Visualization, Reporting <br />
-Dashboard Elements: KPIs, Pie Chart, Bar Chart, Line Chart, and Cards  <br />
-Focus: Brand-wise sales performance and market share comparison  <br />
+
+# Dashboard Insights
+## Sales by Month: 
+Displays sales growth trends across months.
+
+## Sales by Week: 
+Shows weekly performance spikes and seasonality.
+
+## Sales by Product Category: 
+Compares revenue from different product categories (Shoes, Cameras, Clothes, etc.).
+
+## Top 5 Products by Sales: 
+Highlights highest-selling products.
+
+## Top 5 Products by Reviews: 
+Identifies products with maximum customer engagement.
+
+
+# Tools & Technologies Used
+•	Microsoft Power BI – Dashboard creation & visualization <br/> 
+•	Excel / CSV Dataset – Data source <br/> 
+•	Power Query – Data transformation & cleaning <br/> 
+•	DAX (Data Analysis Expressions) – Calculated measures & KPIs <br/> 
+
+
+# Features
+•	Interactive filters for Product and Quarter. <br/> 
+•	Dynamic visualization of YTD vs QTD performance. <br/> 
+•	Intuitive charts for product, time, and category comparisons. <br/> 
+•	Professional dark-themed layout for better visual appeal. <br/> 
+
+
+# Key Learnings
+•	Practical understanding of Power BI dashboard design principles. <br/> 
+•	Learned to build and apply DAX measures for real-time performance tracking. <br/> 
+•	Enhanced knowledge of data modeling and Power Query transformations. <br/> 
+
+
 
 # Output Screenshot
 <img width="1164" height="654" alt="Snapshot" src="https://github.com/user-attachments/assets/086f8c78-5589-45bd-816a-63ea61e22213" />
+
+
+# Conclusion
+The Amazon Product Sales Analysis Dashboard offers valuable insights into product performance, seasonal sales trends, and customer review patterns. It enables decision-makers to optimize product strategies and maximize sales opportunities based on visual analytics.
+
+
+# Future Enhancements
+•	Add profit margin and cost analysis KPIs. <br/> 
+•	Implement real-time data updates using Power BI Service. <br/> 
+•	Add geographical analysis for regional sales performance. <br/> 
 
 
 
